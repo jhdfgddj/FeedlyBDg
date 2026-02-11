@@ -1,0 +1,8 @@
+
+{
+  "name": "Ramadan Spirit Tracker",
+  "description": "A comprehensive daily Ramadan tracker to monitor prayers, fasts, and good deeds with AI-powered motivational reflections and progress analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
